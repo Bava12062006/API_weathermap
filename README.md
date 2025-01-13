@@ -12,6 +12,8 @@
 
 **MENTOR NAME**:NEELA SANTHOSH
 
+#output  https://github.com/Bava12062006/API_weathermap/issues/1#issue-2783302992
+
 #DESCRIPTION
 This program fetches weather data for a city entered by the user and visualizes the weather parameters (temperature, humidity, and pressure) in a bar chart using the Matplotlib library. The data is retrieved from OpenWeatherMap's API and displayed both as graphical output and as detailed text in the terminal.
 
